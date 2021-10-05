@@ -1,0 +1,7 @@
+D:\Users\Miguel Falcón\Documents\Programas Visual Studio\ExamenEjercicio2\ExamenEjercicio2\bin\Debug\ExamenEjercicio2.exe.config
+D:\Users\Miguel Falcón\Documents\Programas Visual Studio\ExamenEjercicio2\ExamenEjercicio2\bin\Debug\ExamenEjercicio2.exe
+D:\Users\Miguel Falcón\Documents\Programas Visual Studio\ExamenEjercicio2\ExamenEjercicio2\bin\Debug\ExamenEjercicio2.pdb
+D:\Users\Miguel Falcón\Documents\Programas Visual Studio\ExamenEjercicio2\ExamenEjercicio2\obj\Debug\ExamenEjercicio2.csprojAssemblyReference.cache
+D:\Users\Miguel Falcón\Documents\Programas Visual Studio\ExamenEjercicio2\ExamenEjercicio2\obj\Debug\ExamenEjercicio2.csproj.CoreCompileInputs.cache
+D:\Users\Miguel Falcón\Documents\Programas Visual Studio\ExamenEjercicio2\ExamenEjercicio2\obj\Debug\ExamenEjercicio2.exe
+D:\Users\Miguel Falcón\Documents\Programas Visual Studio\ExamenEjercicio2\ExamenEjercicio2\obj\Debug\ExamenEjercicio2.pdb
